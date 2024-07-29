@@ -11,7 +11,7 @@
 	<groupId>me.dio</groupId>
 	<artifactId>santander-dio-bootcamp-2024-REST-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>santander-dev-week-2024</name>
+	<name>santander-dio-bootcamp-2024-REST-API</name>
 	<description>Java RESTful API criada para o BootCamp Santander-DIO</description>
 	<url/>
 	<licenses>
